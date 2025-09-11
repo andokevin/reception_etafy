@@ -1,0 +1,24 @@
+{
+  "name": "accueil",
+  "version": "1.0.0",
+  "description": "Backend for the web app for the receptionists in e-tafy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andokevin/reception_etafy.git"
+  },
+  "keywords": [
+    "e-tafy",
+    "backend",
+    "receptionist"
+  ],
+  "author": "Ando Kévin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andokevin/reception_etafy/issues"
+  },
+  "homepage": "https://github.com/andokevin/reception_etafy#readme"
+}
