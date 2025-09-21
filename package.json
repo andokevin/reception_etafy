@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/andokevin/reception_etafy/issues"
   },
-  "homepage": "https://github.com/andokevin/reception_etafy#readme"
+  "homepage": "https://github.com/andokevin/reception_etafy#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.5",
+    "sequelize": "^6.37.7"
+  }
 }
